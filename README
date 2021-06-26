@@ -10,4 +10,4 @@
 //The first Number is Red (0-225).
 //The Second Number is Green (0-255).
 //The Third Number is Blue (0-255).
-//The last number is alpha also 0-255 and alpha is basically the transparation with 255 being not transparent and 0 being fully transparent(invisible).
+//The last number is alpha also 0-255 and alpha is basically how much will it be transparent - with 255 being not transparent, 0 being fully transparent(invisible).
