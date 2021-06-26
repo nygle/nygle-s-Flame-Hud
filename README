@@ -1,7 +1,13 @@
 //This is FlameHud just edited by me (something like colours, health and ammo positions and other stuff i found cool)
 //i wouldn't use it as Normal hud 
-//The vaccinator is bugged and i dont know how to get rid of the 0% under the crosshair when in hand
+//The vaccinator is bugged and i dont know how to get rid off the 0% under the crosshair when in hand
 
 
 
-//IF you want to change the colors of the hud for example Health go in /resource/ClientScheme (open it just like text file) and change the "Health Buff" and other colors
+//IF you want to change the colors of the hud for example Health go in /resource/ClientScheme (open it just like text file) and change the "Health Buff" and other colors with RGB colors
+
+// It looks Like this --  0 102 204 255 --
+//The first Number is Red (0-225).
+//The Second Number is Green (0-255).
+//The Third Number is Blue (0-255).
+//The last number is alpha also 0-255 and alpha is basically the transparation with 255 being not transparent and 0 being fully transparent(invisible).
