@@ -50,7 +50,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"font"			"HudFontMediumSmallBoldShadow"
+		"font"			"HudFontMediumSmallBoldShadow" //can also use "HudFontMediumSmallBoldOutline" if you want outlined number
 		"xpos"			"c-45"
 		"ypos"			"r235"
 		"zpos"			"6"
