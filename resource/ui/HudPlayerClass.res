@@ -98,7 +98,7 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
-		"xpos"			"c-300"	[$WIN32]
+		"xpos"			"c-320"	[$WIN32]
 		"ypos"			"r255"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"100"
@@ -140,18 +140,18 @@
 			"Scout"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"-5"
+				"angles_y"		"-100"
 				"angles_z"		"0"
 				"origin_x"		"200"
-				"origin_y"		"0"
+				"origin_y"		"3"
 				"origin_z"		"-80"
 			}
 			"Sniper"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"-5"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
 				"origin_y"		"0"
@@ -160,18 +160,18 @@
 			"Soldier"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"0"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
-				"origin_y"		"0"
+				"origin_y"		"3"
 				"origin_z"		"-80"
 			}
 			"Demoman"
 			{
 				"fov"			"25"
 				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
 				"origin_y"		"0"
@@ -180,8 +180,8 @@
 			"Medic"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"-5"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
 				"origin_y"		"0"
@@ -190,8 +190,8 @@
 			"Heavy"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"-5"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
 				"origin_y"		"0"
@@ -200,8 +200,8 @@
 			"Pyro"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"-5"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
 				"origin_y"		"0"
@@ -210,8 +210,8 @@
 			"Spy"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"-5"
+				"angles_y"		"-140"
 				"angles_z"		"0"
 				"origin_x"		"200"
 				"origin_y"		"0"
@@ -220,11 +220,11 @@
 			"Engineer"
 			{
 				"fov"			"25"
-				"angles_x"		"-10"
-				"angles_y"		"-170"
+				"angles_x"		"0"
+				"angles_y"		"-100"
 				"angles_z"		"0"
 				"origin_x"		"200"
-				"origin_y"		"0"
+				"origin_y"		"3"
 				"origin_z"		"-80"
 			}
 		}
